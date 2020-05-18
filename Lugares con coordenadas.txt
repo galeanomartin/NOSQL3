@@ -1,0 +1,42 @@
+Coordenas OJO en redis se cargan alreves Longitud, Latitud
+
+C. del Uruguay:
+-Latitud ,  Longitud
+-32.4824905, -58.2372208
+
+Centros de emergencia
+-32.481142, -58.261089 'Hospital Justo José de Urquiza'
+-32.483259, -58.230651 'Clínica Uruguay SRL'
+-32.479712, -58.236718 'Cooperativa Médida Ltda'
+-32.483025, -58.230982 'VIDA'
+-32.484089, -58.236715 'Alerta'
+
+Facultades 
+-32.478860, -58.233299 UADER FCyT
+-32.481489, -58.229687 UCU
+-32.480244, -58.261326 'UNER FCSA'
+-32.495624, -58.229596 UTN FRCU
+-32.482861, -58.233367 'Universidad Siglo XXI'
+
+Cervecerías
+-32.477168, -58.248252 "Lagash"
+-32.479540, -58.235334 "7 Colinas"
+-32.480420, -58.233911 "Drakkar"
+-32.485666, -58.269698 "Bigua"
+-32.481175, -58.237968 'Träctor'
+-32.481920, -58.232534 "Ambar"
+
+Farmacias
+-32.483058, -58.230625 'Modelo'
+-32.484015, -58.234010 'Popular'
+-32.483780, -58.231382 'Ramírez'
+-32.486160, -58.232945 'Alberdi'
+-32.480021, -58.233792 'Entre Ríos'
+
+Supermercados:
+-32.486246, -58.232637 'Supremo'
+-32.489247, -58.230314 'Gran Rex'
+-32.488496, -58.241808 'DIA'
+-32.485030, -58.250171 'RT'
+-32.490232, -58.250664 'Ciclón' 
+
